@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-08T16:57:06 IST" name="Default suite" finished-at="2023-03-08T16:57:24 IST" duration-ms="18015">
+    <groups>
+    </groups>
+    <test started-at="2023-03-08T16:57:06 IST" name="Default test" finished-at="2023-03-08T16:57:24 IST" duration-ms="18015">
+      <class name="com.shopping.TestCases.LoginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.shopping.TestCases.LoginPageTest@c33b74f]" started-at="2023-03-08T16:57:06 IST" name="setup" finished-at="2023-03-08T16:57:20 IST" duration-ms="14109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyValidLogin()[pri:0, instance:com.shopping.TestCases.LoginPageTest@c33b74f]" started-at="2023-03-08T16:57:20 IST" name="VerifyValidLogin" finished-at="2023-03-08T16:57:23 IST" duration-ms="3508" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyValidLogin -->
+        <test-method is-config="true" signature="teradown()[pri:0, instance:com.shopping.TestCases.LoginPageTest@c33b74f]" started-at="2023-03-08T16:57:23 IST" name="teradown" finished-at="2023-03-08T16:57:24 IST" duration-ms="340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teradown -->
+      </class> <!-- com.shopping.TestCases.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
